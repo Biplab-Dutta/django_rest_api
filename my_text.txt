@@ -1,7 +1,7 @@
 Planning our Profile API:
 
 Requirements:
-    1. Creating a profile that handles the registration of new user in the system along with data validation
+    1. Creating a profile that handles the registration of a new user in the system along with data validation
     2. Listing existing Profile
             - Search for profiles using email or name
     3. Viewing specific profiles by the profile id
